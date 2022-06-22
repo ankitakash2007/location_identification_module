@@ -15,7 +15,7 @@ indic-transliteration==1.8.9
 joblib==0.14.0
 Morfessor==2.0.6
 nameparser==1.0.4
-numpy==1.17.2
+numpy==1.22.0
 pandas==0.25.1
 polyglot==16.7.4
 psycopg2==2.8.4
